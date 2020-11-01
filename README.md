@@ -55,6 +55,7 @@ lying inside the semi-circle of No. (16) and outside the arc of No. (17) of
 this Schedule.
 
 **c. Method of making the sun**
+
   19. Bisect line AF at U, and draw a line UV parallel to AB line touching line BE
 at V.
 
