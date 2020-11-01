@@ -80,3 +80,6 @@ border on the side AC can be extended according to requirements.
 **Explanation:** The lines HI, RS, FE, ED, JG, OQ, JK and UV are imaginary.
 Similarly, the external and internal circles of the sun and the other arcs except the
 crescent moon are also imaginary. These are not shown on the flag.
+
+### OUTPUT
+![image](https://github.com/TimilsinaBimal/Flag-of-Nepal-Python/blob/master/Output.png)
